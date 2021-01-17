@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# vim:fileencoding=utf-8
 from random import shuffle
 from tkinter import Canvas, Tk
 
